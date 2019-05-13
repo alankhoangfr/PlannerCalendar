@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PlannerCalendar/static/css/main.2cce8147.chunk.css",
+    "main.js": "/PlannerCalendar/static/js/main.f91661c4.chunk.js",
+    "main.js.map": "/PlannerCalendar/static/js/main.f91661c4.chunk.js.map",
+    "runtime~main.js": "/PlannerCalendar/static/js/runtime~main.edd213c4.js",
+    "runtime~main.js.map": "/PlannerCalendar/static/js/runtime~main.edd213c4.js.map",
+    "static/js/2.b41502e9.chunk.js": "/PlannerCalendar/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/PlannerCalendar/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/PlannerCalendar/index.html",
+    "precache-manifest.baf40c02c65eaa656734b9727820b1da.js": "/PlannerCalendar/precache-manifest.baf40c02c65eaa656734b9727820b1da.js",
+    "service-worker.js": "/PlannerCalendar/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/PlannerCalendar/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/PlannerCalendar/static/media/logo.5d5d9eef.svg"
+  }
+}
