@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/PlannerCalendar/static/css/main.2cce8147.chunk.css",
-    "main.js": "/PlannerCalendar/static/js/main.f91661c4.chunk.js",
-    "main.js.map": "/PlannerCalendar/static/js/main.f91661c4.chunk.js.map",
+    "main.css": "/PlannerCalendar/static/css/main.fb43c3d6.chunk.css",
+    "main.js": "/PlannerCalendar/static/js/main.dac2dc81.chunk.js",
+    "main.js.map": "/PlannerCalendar/static/js/main.dac2dc81.chunk.js.map",
     "runtime~main.js": "/PlannerCalendar/static/js/runtime~main.edd213c4.js",
     "runtime~main.js.map": "/PlannerCalendar/static/js/runtime~main.edd213c4.js.map",
-    "static/js/2.b41502e9.chunk.js": "/PlannerCalendar/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/PlannerCalendar/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.57ab6215.chunk.css": "/PlannerCalendar/static/css/2.57ab6215.chunk.css",
+    "static/js/2.bd10afec.chunk.js": "/PlannerCalendar/static/js/2.bd10afec.chunk.js",
+    "static/js/2.bd10afec.chunk.js.map": "/PlannerCalendar/static/js/2.bd10afec.chunk.js.map",
     "index.html": "/PlannerCalendar/index.html",
-    "precache-manifest.baf40c02c65eaa656734b9727820b1da.js": "/PlannerCalendar/precache-manifest.baf40c02c65eaa656734b9727820b1da.js",
+    "precache-manifest.5b8d3dac21b92fdfdc567740de78f104.js": "/PlannerCalendar/precache-manifest.5b8d3dac21b92fdfdc567740de78f104.js",
     "service-worker.js": "/PlannerCalendar/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/PlannerCalendar/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/PlannerCalendar/static/media/logo.5d5d9eef.svg"
+    "static/css/2.57ab6215.chunk.css.map": "/PlannerCalendar/static/css/2.57ab6215.chunk.css.map",
+    "static/css/main.fb43c3d6.chunk.css.map": "/PlannerCalendar/static/css/main.fb43c3d6.chunk.css.map"
   }
 }

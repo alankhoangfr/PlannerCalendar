@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,oBACI,YACJ,CACA,SACI,SAEJ,CACA,SACC,aACD,CACA,eACI,SAEJ","file":"main.fb43c3d6.chunk.css","sourcesContent":["::-webkit-scrollbar { \n    display: none; \n}\ntd:hover {\n    color:red;\n    \n}\n.lighter{\n\tcolor:\trgba(187,195,196);\n}\n.lighter:hover {\n    color:red;\n    \n}"]}
