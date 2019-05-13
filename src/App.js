@@ -1,26 +1,34 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
+import CalendarPage from "./CalendarPage"
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
+import { Provider } from './MyContext';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+
+
+class App extends Component {
+
+  App={
+    padding:"20px",
+    display:"flex",
+    flexDirection: "row"
+
 }
 
-export default App;
+  render() {
+    return (
+    <Provider>
+      <MuiThemeProvider>
+      <div style={this.App}>
+        <div style={this.navbar}></div>      
+        <CalendarPage/>
+ 
+      </div>
+      </MuiThemeProvider>
+     </Provider>
+    );
+  }
+}
+
+export default App
