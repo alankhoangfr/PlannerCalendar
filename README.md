@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Overview
+This front end app allows the client to create unique or reoccuring events. These events can be dragged and dropped into a time on the weekly planner. The unique events can also be stored temporary. 
+
+Check out the app : https://alankhoangfr.github.io/PlannerCalendar/
 
 ## Available Scripts
 
